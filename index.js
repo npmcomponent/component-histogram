@@ -3,8 +3,8 @@
  * Module dependencies.
  */
 
-var max = require('max')
-  , style = require('style')
+var max = require('component-max')
+  , style = require('component-style')
   , ratio = window.devicePixelRatio || 1;
 
 /**
